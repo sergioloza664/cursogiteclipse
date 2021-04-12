@@ -4,3 +4,5 @@ trabajo en lo que me han pedido a media del otro trabajo
 
 
 cambio de rama 1
+
+corregido el error encontrado
