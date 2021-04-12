@@ -1,27 +1,8 @@
 
 
-cambio arriba
+cambio arriba todo junto
 
-En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que viv�a un hidalgo de los de lanza en astillero,
- adarga antigua, roc�n flaco y galgo corredor. Una olla de algo m�s vaca que carnero, salpic�n las m�s noches, duelos y quebrantos 
- los s�bados, lantejas los viernes, alg�n palomino de a�adidura los domingos, consum�an las tres partes de su hacienda. 
- El resto della conclu�an sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los d�as de 
- entresemana se honraba con su vellor� de lo m�s fino. Ten�a en su casa una ama que pasaba de los cuarenta, y una sobrina que no 
- llegaba a los veinte, y un mozo de campo y plaza, que as� ensillaba el roc�n como tomaba la podadera. Frisaba la edad de nuestro 
- hidalgo con los cincuenta a�os; era de complexi�n recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza. 
- Quieren decir que ten�a el sobrenombre de Quijada, o Quesada, que en esto hay alguna diferencia en los autores que deste caso 
- escriben; aunque por conjeturas veros�miles se deja entender que se llamaba Quijana. Pero esto importa poco a nuestro cuento: 
- basta que en la narraci�n d�l no se salga un punto de la verdad.
- En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que viv�a un hidalgo de los de lanza en astillero,
- adarga antigua, roc�n flaco y galgo corredor. Una olla de algo m�s vaca que carnero, salpic�n las m�s noches, duelos y quebrantos 
- los s�bados, lantejas los viernes, alg�n palomino de a�adidura los domingos, consum�an las tres partes de su hacienda. 
- El resto della conclu�an sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los d�as de 
- entresemana se honraba con su vellor� de lo m�s fino. Ten�a en su casa una ama que pasaba de los cuarenta, y una sobrina que no 
- llegaba a los veinte, y un mozo de campo y plaza, que as� ensillaba el roc�n como tomaba la podadera. Frisaba la edad de nuestro 
- hidalgo con los cincuenta a�os; era de complexi�n recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza. 
- Quieren decir que ten�a el sobrenombre de Quijada, o Quesada, que en esto hay alguna diferencia en los autores que deste caso 
- escriben; aunque por conjeturas veros�miles se deja entender que se llamaba Quijana. Pero esto importa poco a nuestro cuento: 
- basta que en la narraci�n d�l no se salga un punto de la verdad.
+cambio arriba
 
 En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero,
  adarga antigua, rocín flaco y galgo corredor. Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos 
@@ -43,6 +24,27 @@ En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo
  Quieren decir que tenía el sobrenombre de Quijada, o Quesada, que en esto hay alguna diferencia en los autores que deste caso 
  escriben; aunque por conjeturas verosímiles se deja entender que se llamaba Quijana. Pero esto importa poco a nuestro cuento: 
  basta que en la narración dél no se salga un punto de la verdad.
+
+En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivÃ­a un hidalgo de los de lanza en astillero,
+ adarga antigua, rocÃ­n flaco y galgo corredor. Una olla de algo mÃ¡s vaca que carnero, salpicÃ³n las mÃ¡s noches, duelos y quebrantos 
+ los sÃ¡bados, lantejas los viernes, algÃºn palomino de aÃ±adidura los domingos, consumÃ­an las tres partes de su hacienda. 
+ El resto della concluÃ­an sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los dÃ­as de 
+ entresemana se honraba con su vellorÃ­ de lo mÃ¡s fino. TenÃ­a en su casa una ama que pasaba de los cuarenta, y una sobrina que no 
+ llegaba a los veinte, y un mozo de campo y plaza, que asÃ­ ensillaba el rocÃ­n como tomaba la podadera. Frisaba la edad de nuestro 
+ hidalgo con los cincuenta aÃ±os; era de complexiÃ³n recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza. 
+ Quieren decir que tenÃ­a el sobrenombre de Quijada, o Quesada, que en esto hay alguna diferencia en los autores que deste caso 
+ escriben; aunque por conjeturas verosÃ­miles se deja entender que se llamaba Quijana. Pero esto importa poco a nuestro cuento: 
+ basta que en la narraciÃ³n dÃ©l no se salga un punto de la verdad.
+ En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivÃ­a un hidalgo de los de lanza en astillero,
+ adarga antigua, rocÃ­n flaco y galgo corredor. Una olla de algo mÃ¡s vaca que carnero, salpicÃ³n las mÃ¡s noches, duelos y quebrantos 
+ los sÃ¡bados, lantejas los viernes, algÃºn palomino de aÃ±adidura los domingos, consumÃ­an las tres partes de su hacienda. 
+ El resto della concluÃ­an sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los dÃ­as de 
+ entresemana se honraba con su vellorÃ­ de lo mÃ¡s fino. TenÃ­a en su casa una ama que pasaba de los cuarenta, y una sobrina que no 
+ llegaba a los veinte, y un mozo de campo y plaza, que asÃ­ ensillaba el rocÃ­n como tomaba la podadera. Frisaba la edad de nuestro 
+ hidalgo con los cincuenta aÃ±os; era de complexiÃ³n recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza. 
+ Quieren decir que tenÃ­a el sobrenombre de Quijada, o Quesada, que en esto hay alguna diferencia en los autores que deste caso 
+ escriben; aunque por conjeturas verosÃ­miles se deja entender que se llamaba Quijana. Pero esto importa poco a nuestro cuento: 
+ basta que en la narraciÃ³n dÃ©l no se salga un punto de la verdad.
 
  
  
